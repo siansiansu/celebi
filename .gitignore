@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+# general
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# visual studio code
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
