@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Alex Su"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "software Enginner | DevOps Engineer"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "software Enginner x DevOps Engineer"
   location         : "Taipei"
   email            : "minsiansu@gmail.com"
   links:
