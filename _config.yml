@@ -1,16 +1,17 @@
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale: "en-US"
-title: "Hello World!"
+title: "Alex Min-Sian Su"
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "Software Engineer | DevOps Engineer"
 name: "Min-Sian Su"
 description: "Alex's personal website"
 url: "https://siansiansu.github.io/"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "siansiansu/siansiansu.github.io"
 teaser: "/assets/images/favicon.png"
-logo: "/assets/images/favicon.png"
+logo: # logo
+favicon: "/assets/images/favicon.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -248,8 +249,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      author_profile: false
       read_time: true
       comments: # true
       share: true
