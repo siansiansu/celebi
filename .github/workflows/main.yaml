@@ -16,8 +16,8 @@ jobs:
       - name: Build Static Pages
         run: |
           sudo apt-get install -y hugo
-          hugo -D
-          find . ! -name 'public' -type f -exec rm -f {} +
+          rm -rf public && hugo -D
+          rm -v \!("public")
 
       - name: Deploy
         run: |
