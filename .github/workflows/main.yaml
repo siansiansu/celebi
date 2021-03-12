@@ -23,10 +23,10 @@ jobs:
 
       - name: Push to GitHub Pages
         run: |
-        git config --global user.name 'siansiansu'
-        git config --global user.email 'minsiansu@gmail.com'
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_AUTO_COMMIT }}@github.com/$GITHUB_REPOSITORY
-        git checkout -b gh-pages
-        git add .
-        git commit -m "Automatic publish by GitHub Action"
-        git push origin gh-pages -f
+          git config --global user.name 'siansiansu'
+          git config --global user.email 'minsiansu@gmail.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_AUTO_COMMIT }}@github.com/$GITHUB_REPOSITORY
+          git checkout -b gh-pages
+          git add .
+          git commit -m "Automatic publish by GitHub Action"
+          git push origin gh-pages -f
