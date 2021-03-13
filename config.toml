@@ -1,4 +1,15 @@
 baseURL = "https://siansiansu.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "func"
 theme = "pickles"
+
+[params]
+twitter = "siansiansu"
+instagram = "siansian.bird"
+github = "siansiansu"
+linkedin = "minsian"
+author = "Alex Su"
+avatar = "images/avatar.png"
+contact = "mailto:minsiansu@gmail.com"
+bio = "#Arch Linux, #Vim, #Go, #Python, #Biologist"
+favicon = "images/favicon.png"
