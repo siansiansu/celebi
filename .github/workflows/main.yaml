@@ -16,7 +16,7 @@ jobs:
       - name: Build Static Pages
         run: |
           sudo apt-get install -y hugo
-          rm -rf public && hugo -D
+          rm -rf public && ./bin/bot.sh && hugo -D
           shopt -s extglob
           rm -rf !(.git|public|.gitignore)
           mv ./public/* .
