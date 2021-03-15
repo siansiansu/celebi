@@ -27,6 +27,7 @@ jobs:
           git config --global user.email 'minsiansu@gmail.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_AUTO_COMMIT }}@github.com/$GITHUB_REPOSITORY
           git checkout -b gh-pages
+          touch .nojekyll
           git add .
           git commit -m "Automatic publish by GitHub Action"
           git push origin gh-pages -f
