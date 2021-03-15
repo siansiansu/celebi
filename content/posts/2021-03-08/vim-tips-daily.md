@@ -1,5 +1,5 @@
 ---
-title: "VIm Tips Daily (shared by bot)"
+title: "Today's Vim Tip"
 date: 2021-03-08
 tags:
   - vim
@@ -12,5 +12,5 @@ hideDate: true
 
 Use &lt; C-f &gt; to switch from Command-Line mode to the command-line window.
 
-Note: The text is shared from [VImTipsDaily](https://twitter.com/VImTipsDaily)
+Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
 

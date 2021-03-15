@@ -29,7 +29,7 @@ do
 
 cat << EOF > $GITROOT/content/posts/$date/vim-tips-daily.md
 ---
-title: "VIm Tips Daily (shared by bot)"
+title: "Today's Vim Tip"
 date: $date
 tags:
   - vim
@@ -42,7 +42,7 @@ hideDate: true
 
 $text
 
-Note: The text is shared from [VImTipsDaily](https://twitter.com/VImTipsDaily)
+Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
 
 EOF
 

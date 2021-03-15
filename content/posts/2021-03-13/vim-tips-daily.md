@@ -1,5 +1,5 @@
 ---
-title: "VIm Tips Daily (shared by bot)"
+title: "Today's Vim Tip"
 date: 2021-03-13
 tags:
   - vim
@@ -12,5 +12,5 @@ hideDate: true
 
 use :help help to learn how to use VIm's robust help system
 
-Note: The text is shared from [VImTipsDaily](https://twitter.com/VImTipsDaily)
+Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
 

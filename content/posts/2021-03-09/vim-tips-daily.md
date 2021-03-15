@@ -1,5 +1,5 @@
 ---
-title: "VIm Tips Daily (shared by bot)"
+title: "Today's Vim Tip"
 date: 2021-03-09
 tags:
   - vim
@@ -12,5 +12,5 @@ hideDate: true
 
 Put from the "+ register to put from the system clipboard.
 
-Note: The text is shared from [VImTipsDaily](https://twitter.com/VImTipsDaily)
+Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
 
