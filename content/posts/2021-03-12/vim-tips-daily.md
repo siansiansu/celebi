@@ -12,5 +12,4 @@ hideDate: true
 
 In insert mode, put the contents of the default register with &lt;c-r&gt;".
 
-Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
-
+> This post is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action

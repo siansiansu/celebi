@@ -12,5 +12,4 @@ hideDate: true
 
 use :help help to learn how to use VIm's robust help system
 
-Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
-
+> This post is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action

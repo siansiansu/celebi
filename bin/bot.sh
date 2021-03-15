@@ -42,8 +42,7 @@ hideDate: true
 
 $text
 
-Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
-
+> This post is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
 EOF
 
 done

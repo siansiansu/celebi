@@ -12,5 +12,4 @@ hideDate: true
 
 Use &lt; C-f &gt; to switch from Command-Line mode to the command-line window.
 
-Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
-
+> This post is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action

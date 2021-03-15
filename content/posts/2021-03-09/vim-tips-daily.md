@@ -12,5 +12,4 @@ hideDate: true
 
 Put from the "+ register to put from the system clipboard.
 
-Note: The text is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
-
+> This post is auto shared from [VImTipsDaily](https://twitter.com/VImTipsDaily) by GitHub Action
