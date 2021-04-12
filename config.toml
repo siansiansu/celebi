@@ -70,5 +70,4 @@ favicon = "/images/favicon.png"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "monokai"
     tabWidth = 4
