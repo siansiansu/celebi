@@ -10,10 +10,10 @@ tags:
   - software
   - developer
 categories: sre
-draft: true
+draft: false
 ---
 
-## 文章
+## 推薦文章
 
 - [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 - [Site Reliability Engineers: “We solve cooler problems”](https://careers.google.com/.../site-reliability.../)
@@ -21,12 +21,16 @@ draft: true
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
 - [Reflections After 15 Years of Working as a Software Developer](https://betterprogramming.pub/reflections-after-15-years...)
 
-## 書單
+----
+
+## 推薦書單
 
 - [Building Secure & Reliable Systems](https://sre.google/books/building-secure-reliable-systems/)
 - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
 - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
-## 網站
+----
+
+## 平常可以逛的網站
 
 - [Site Reliability Engineering: Google](https://sre.google/)
