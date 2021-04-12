@@ -8,15 +8,13 @@ tags:
   - math
 categories: vim
 draft: false
-hideDate: true
 ---
-
-今天是 pi day，我們來學一下怎麼在 Vim 使用 `π` 符號。
 
 在 Insert Mode 輸入：
 
 ```text
 <ctrl> k + p*
+# 𝝅
 ```
 
 ## 如何查看特殊符號列表
