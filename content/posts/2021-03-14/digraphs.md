@@ -8,6 +8,7 @@ tags:
   - math
 categories: vim
 draft: false
+hideDate: true
 ---
 ## 查看特殊符號列表
 

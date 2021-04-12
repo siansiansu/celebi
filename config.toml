@@ -11,7 +11,7 @@ linkedin = "minsian"
 author = "Alex Su"
 avatar = "/images/avatar.png"
 contact = "mailto:minsiansu@gmail.com"
-bio = "#Arch Linux, #Vim, #Go, #Python, #Biologist"
+bio = "#Linux, #Vim, #Go, #Python, #Ecologist"
 favicon = "/images/favicon.png"
 
 [[menu.main]]
