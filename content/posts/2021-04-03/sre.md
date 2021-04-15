@@ -17,10 +17,10 @@ hideDate: true
 ## 推薦文章
 
 - [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
-- [Site Reliability Engineers: “We solve cooler problems”](https://careers.google.com/.../site-reliability.../)
+- [Site Reliability Engineers: “We solve cooler problems”](https://careers.google.com/stories/site-reliability-engineering-profile-google/)
 - [So You Wanna Be an SRE? Learn These 12 Skills](https://stackpulse.com/blog/essential-sre-skills/)
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
-- [Reflections After 15 Years of Working as a Software Developer](https://betterprogramming.pub/reflections-after-15-years...)
+- [Reflections After 15 Years of Working as a Software Developer](https://betterprogramming.pub/reflections-after-15-years-working-as-a-software-developer-cabf610f51a0)
 
 ----
 
