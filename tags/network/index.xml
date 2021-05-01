@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</title>
+    <link>https://siansiansu.github.io/tags/network/</link>
+    <description>Recent content in network on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 05:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://siansiansu.github.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network CLI tool</title>
+      <link>https://siansiansu.github.io/posts/2021-05-01-networkcli/</link>
+      <pubDate>Sat, 01 May 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-05-01-networkcli/</guid>
+      <description> ab - Apache HTTP server benchmarking tool  </description>
+    </item>
+    
+  </channel>
+</rss>

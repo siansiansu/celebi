@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neovim on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</title>
+    <link>https://siansiansu.github.io/tags/neovim/</link>
+    <description>Recent content in neovim on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 05:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://siansiansu.github.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VIM 實用技巧整理</title>
+      <link>https://siansiansu.github.io/posts/2021-03-14-vim/</link>
+      <pubDate>Sun, 14 Mar 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-03-14-vim/</guid>
+      <description> 查看特殊符號列表：在 Normal Mode 輸入 :digraphs。 輸入 π 符號：在 Insert Mode 輸入：&amp;lt;ctrl&amp;gt; k + p*。 Swap two characters: 在 Normal Mode 輸入 xp。 Undo in insert mode: &amp;lt;ctrl-u&amp;gt;。 調整 current line 的位置: zt 置頂、zz 置中、zb 置底。 使用 ( 和 ) 跳躍句子的最前端和最末端。 vim -o file0 file1: 同時開啟兩個檔案，並且水平分割。 vim -O file0 file1: 同時開啟兩個檔案，並且垂直分割。 gx: 開啟連結。   vimrc Multiple hightlights
+highlight LineHighlight ctermbg=gray guibg=graynnoremap &amp;lt;silent&amp;gt; &amp;lt;Leader&amp;gt;f :call matchadd(&amp;#39;LineHighlight&amp;#39;, &amp;#39;\%&amp;#39;.line(&amp;#39;.&amp;#39;).&amp;#39;l&amp;#39;)&amp;lt;CR&amp;gt;nnoremap &amp;lt;silent&amp;gt; &amp;lt;Leader&amp;gt;c :call clearmatches()&amp;lt;CR&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

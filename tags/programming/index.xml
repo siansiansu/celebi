@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</title>
+    <link>https://siansiansu.github.io/tags/programming/</link>
+    <description>Recent content in programming on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 03:40:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://siansiansu.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SRE 學習資源</title>
+      <link>https://siansiansu.github.io/posts/2021-04-03-sre/</link>
+      <pubDate>Sat, 03 Apr 2021 03:40:48 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-03-sre/</guid>
+      <description>推薦文章  How to Get Into SRE Site Reliability Engineers: “We solve cooler problems” So You Wanna Be an SRE? Learn These 12 Skills School of SRE Reflections After 15 Years of Working as a Software Developer   推薦書單  Building Secure &amp;amp; Reliable Systems The Site Reliability Workbook Site Reliability Engineering   平常可以逛的網站  Site Reliability Engineering: Google  </description>
+    </item>
+    
+    <item>
+      <title>LeetCode 學習資源</title>
+      <link>https://siansiansu.github.io/posts/2021-04-02-leetcode/</link>
+      <pubDate>Fri, 02 Apr 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-02-leetcode/</guid>
+      <description>Golang 學習地圖  A Tour of Go Go Documentation Effective Go High Performance Go Workshop   LeetCode 經典題  Favorite - LeetCode Algorithm Problem Classification Problems - LeetCode   分析 Time and Space Complexity  Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell   推薦課程  CS 61A Spring 2021 Course: CS61B | EECS at UC Berkeley Introduction to Computer Science and Programming in Python | Electrical Engineering and Computer Science | MIT OpenCourseWare   推薦書單  Cracking the Coding Interview: 189 Programming Questions and Solutions The Pragmatic Programmer  </description>
+    </item>
+    
+  </channel>
+</rss>

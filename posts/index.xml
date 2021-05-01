@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</title>
+    <link>https://siansiansu.github.io/posts/</link>
+    <description>Recent content in Posts on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 05:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://siansiansu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network CLI tool</title>
+      <link>https://siansiansu.github.io/posts/2021-05-01-networkcli/</link>
+      <pubDate>Sat, 01 May 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-05-01-networkcli/</guid>
+      <description> ab - Apache HTTP server benchmarking tool  </description>
+    </item>
+    
+    <item>
+      <title>Command Line 實用技巧整理</title>
+      <link>https://siansiansu.github.io/posts/2021-04-15-cli/</link>
+      <pubDate>Thu, 15 Apr 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-15-cli/</guid>
+      <description> ctrl + a: 游標跳到最左邊。 ctrl + e: 游標跳到最右邊。 ctrl + k: 從現在游標的位置刪到最右邊的位置。 ctrl + u: 從現在游標的位置刪到最左邊的位置 (在 zsh 是全部刪掉)。 alt + b: 游標往左邊跳一個字。 alt + f: 游標往右邊跳一個字。 alt + d: 刪掉游標右邊一個字。 ctrl + w: 刪掉游標左邊一個字。 ctrl + p: 前一個指令。 ctrl + n: 下一個指令。 ctrl + r: 向後 (backward) 搜尋指令。 ctrl + s: 向前 (forward) 搜尋指令。 ctrl + -: 取消上一個動作。  </description>
+    </item>
+    
+    <item>
+      <title>Operating System 學習資源</title>
+      <link>https://siansiansu.github.io/posts/2021-04-14-os/</link>
+      <pubDate>Wed, 14 Apr 2021 03:40:48 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-14-os/</guid>
+      <description>推薦書單  Operating System Concepts The Linux Programming Interface: A Linux and UNIX System Programming Handbook   RSS 訂閱 直接訂閱 RSS，獲得最新消息。
+ LWN.net Latest Linux Kernel Versions Slashdot Ubuntu Blog   推薦網站  鳥哥的Linux 私房菜   推薦課程 按照我上課的順序排列。
+ Linux 核心設計系列講座 [全部影片][全部講義] Linux 核心設計：作業系統術語及概念 [影片][講義] Linux 核心設計：發展動態回顧 [影片][講義] Linux 核心設計：檔案系統概念及實作手法 (上) [影片][講義] Linux 核心設計：檔案系統概念及實作手法 (下) [影片] Linux 核心設計：並行和多執行緒程式設計 (1) [影片] Linux 核心設計：並行和多執行緒程式設計 (2) [影片] Linux 核心設計：並行和多執行緒程式設計 (3) [影片] Linux 核心設計：並行和多執行緒程式設計 (4) [影片] Linux 核心設計：並行和多執行緒程式設計 (5) [影片] Linux 核心設計：並行和多執行緒程式設計 (6) [影片] Linux 核心設計：並行和多執行緒程式設計 (7) [影片] Linux 核心設計: 淺談同步機制 [講義] 並行和多執行緒程式設計 [講義] Linux 核心設計：記憶體管理 (一) [影片] Linux 核心設計：記憶體管理 (二) [影片] Linux 核心設計：記憶體管理 (三) [影片]  </description>
+    </item>
+    
+    <item>
+      <title>SRE 學習資源</title>
+      <link>https://siansiansu.github.io/posts/2021-04-03-sre/</link>
+      <pubDate>Sat, 03 Apr 2021 03:40:48 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-03-sre/</guid>
+      <description>推薦文章  How to Get Into SRE Site Reliability Engineers: “We solve cooler problems” So You Wanna Be an SRE? Learn These 12 Skills School of SRE Reflections After 15 Years of Working as a Software Developer   推薦書單  Building Secure &amp;amp; Reliable Systems The Site Reliability Workbook Site Reliability Engineering   平常可以逛的網站  Site Reliability Engineering: Google  </description>
+    </item>
+    
+    <item>
+      <title>LeetCode 學習資源</title>
+      <link>https://siansiansu.github.io/posts/2021-04-02-leetcode/</link>
+      <pubDate>Fri, 02 Apr 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-02-leetcode/</guid>
+      <description>Golang 學習地圖  A Tour of Go Go Documentation Effective Go High Performance Go Workshop   LeetCode 經典題  Favorite - LeetCode Algorithm Problem Classification Problems - LeetCode   分析 Time and Space Complexity  Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell   推薦課程  CS 61A Spring 2021 Course: CS61B | EECS at UC Berkeley Introduction to Computer Science and Programming in Python | Electrical Engineering and Computer Science | MIT OpenCourseWare   推薦書單  Cracking the Coding Interview: 189 Programming Questions and Solutions The Pragmatic Programmer  </description>
+    </item>
+    
+    <item>
+      <title>VIM 實用技巧整理</title>
+      <link>https://siansiansu.github.io/posts/2021-03-14-vim/</link>
+      <pubDate>Sun, 14 Mar 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-03-14-vim/</guid>
+      <description> 查看特殊符號列表：在 Normal Mode 輸入 :digraphs。 輸入 π 符號：在 Insert Mode 輸入：&amp;lt;ctrl&amp;gt; k + p*。 Swap two characters: 在 Normal Mode 輸入 xp。 Undo in insert mode: &amp;lt;ctrl-u&amp;gt;。 調整 current line 的位置: zt 置頂、zz 置中、zb 置底。 使用 ( 和 ) 跳躍句子的最前端和最末端。 vim -o file0 file1: 同時開啟兩個檔案，並且水平分割。 vim -O file0 file1: 同時開啟兩個檔案，並且垂直分割。 gx: 開啟連結。   vimrc Multiple hightlights
+highlight LineHighlight ctermbg=gray guibg=graynnoremap &amp;lt;silent&amp;gt; &amp;lt;Leader&amp;gt;f :call matchadd(&amp;#39;LineHighlight&amp;#39;, &amp;#39;\%&amp;#39;.line(&amp;#39;.&amp;#39;).&amp;#39;l&amp;#39;)&amp;lt;CR&amp;gt;nnoremap &amp;lt;silent&amp;gt; &amp;lt;Leader&amp;gt;c :call clearmatches()&amp;lt;CR&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

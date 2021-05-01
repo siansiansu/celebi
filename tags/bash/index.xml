@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</title>
+    <link>https://siansiansu.github.io/tags/bash/</link>
+    <description>Recent content in bash on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Apr 2021 05:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://siansiansu.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Command Line 實用技巧整理</title>
+      <link>https://siansiansu.github.io/posts/2021-04-15-cli/</link>
+      <pubDate>Thu, 15 Apr 2021 05:14:21 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-15-cli/</guid>
+      <description> ctrl + a: 游標跳到最左邊。 ctrl + e: 游標跳到最右邊。 ctrl + k: 從現在游標的位置刪到最右邊的位置。 ctrl + u: 從現在游標的位置刪到最左邊的位置 (在 zsh 是全部刪掉)。 alt + b: 游標往左邊跳一個字。 alt + f: 游標往右邊跳一個字。 alt + d: 刪掉游標右邊一個字。 ctrl + w: 刪掉游標左邊一個字。 ctrl + p: 前一個指令。 ctrl + n: 下一個指令。 ctrl + r: 向後 (backward) 搜尋指令。 ctrl + s: 向前 (forward) 搜尋指令。 ctrl + -: 取消上一個動作。  </description>
+    </item>
+    
+  </channel>
+</rss>

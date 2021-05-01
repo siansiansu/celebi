@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>os on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</title>
+    <link>https://siansiansu.github.io/tags/os/</link>
+    <description>Recent content in os on Lín a-bú kám tsai-iánn lí tī tsia huat huì-bûn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 03:40:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://siansiansu.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Operating System 學習資源</title>
+      <link>https://siansiansu.github.io/posts/2021-04-14-os/</link>
+      <pubDate>Wed, 14 Apr 2021 03:40:48 +0800</pubDate>
+      
+      <guid>https://siansiansu.github.io/posts/2021-04-14-os/</guid>
+      <description>推薦書單  Operating System Concepts The Linux Programming Interface: A Linux and UNIX System Programming Handbook   RSS 訂閱 直接訂閱 RSS，獲得最新消息。
+ LWN.net Latest Linux Kernel Versions Slashdot Ubuntu Blog   推薦網站  鳥哥的Linux 私房菜   推薦課程 按照我上課的順序排列。
+ Linux 核心設計系列講座 [全部影片][全部講義] Linux 核心設計：作業系統術語及概念 [影片][講義] Linux 核心設計：發展動態回顧 [影片][講義] Linux 核心設計：檔案系統概念及實作手法 (上) [影片][講義] Linux 核心設計：檔案系統概念及實作手法 (下) [影片] Linux 核心設計：並行和多執行緒程式設計 (1) [影片] Linux 核心設計：並行和多執行緒程式設計 (2) [影片] Linux 核心設計：並行和多執行緒程式設計 (3) [影片] Linux 核心設計：並行和多執行緒程式設計 (4) [影片] Linux 核心設計：並行和多執行緒程式設計 (5) [影片] Linux 核心設計：並行和多執行緒程式設計 (6) [影片] Linux 核心設計：並行和多執行緒程式設計 (7) [影片] Linux 核心設計: 淺談同步機制 [講義] 並行和多執行緒程式設計 [講義] Linux 核心設計：記憶體管理 (一) [影片] Linux 核心設計：記憶體管理 (二) [影片] Linux 核心設計：記憶體管理 (三) [影片]  </description>
+    </item>
+    
+  </channel>
+</rss>
